@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gihan Sankalpa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+ 
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gihan-sankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="gihan-sankalpa" /> </p>
